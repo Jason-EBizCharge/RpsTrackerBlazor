@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = RPS.Core.Standard
+build_property.ProjectDir = C:\Users\jason.g\source\repos\RpsTrackerBlazor-master\RPS.Core.Standard\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
